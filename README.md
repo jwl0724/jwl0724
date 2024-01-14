@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan 👋
+### Hi there, I'm Jonathan 🤡
 
 - 💀 I'm currently working my way through BCIT
 - 👀 My goal for the year is to make a general chat bot
